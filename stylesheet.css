@@ -1,0 +1,13 @@
+/* Add your custom extension styling here */
+.test-bg-image-icon {
+    width: 20px;
+    height: 20px;
+}
+
+.test-bg-image-icon {
+  background-image: url("close.svg");
+}
+
+.test-bg-image-icon:hover {
+  background-image: url("close-hover.svg");
+}

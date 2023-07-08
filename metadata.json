@@ -1,0 +1,8 @@
+{
+  "name": "bg-image-hidpi-bug@ilya-m64.me",
+  "description": "Not a real extension but a bug showcase",
+  "uuid": "bg-image-hidpi-bug@ilya-m64.me",
+  "shell-version": [
+    "44"
+  ]
+}
